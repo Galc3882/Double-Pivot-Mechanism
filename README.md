@@ -1,4 +1,4 @@
-# Double-Pivot-Mechanism
+# Double Pivot Mechanism
 A project for an engineering design course ESC102.
 The Double-Pivot Mechanism design aims to enable hockey players with disabilities to manoeuvre the hockey stick easily and precisely using a joystick controller. This mechanism aims to achieve three movements that are important to hockey players; manipulating, shooting and blocking the ball. This will in turn increase their involvement in the game.
 
